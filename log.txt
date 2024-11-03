@@ -1,0 +1,2318 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-05-25T20:25:28.446653800Z</date>
+  <millis>1716668728446</millis>
+  <nanos>653800</nanos>
+  <sequence>0</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.UserManagementPanel</class>
+  <method>loadUserTypes</method>
+  <thread>19</thread>
+  <message>java.lang.NullPointerException: Cannot invoke "java.sql.Connection.createStatement()" because "model.MySQL.connection" is null</message>
+</record>
+<record>
+  <date>2024-05-25T20:25:28.469204100Z</date>
+  <millis>1716668728469</millis>
+  <nanos>204100</nanos>
+  <sequence>1</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.UserManagementPanel</class>
+  <method>loadUsers</method>
+  <thread>19</thread>
+  <message>java.lang.NullPointerException: Cannot invoke "java.sql.Connection.createStatement()" because "model.MySQL.connection" is null</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-05-26T03:22:52</date>
+  <millis>1716673972578</millis>
+  <sequence>0</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.SignIn</class>
+  <method>jButton2ActionPerformed</method>
+  <thread>16</thread>
+  <message>java.lang.NullPointerException</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-05-26T14:50:09.901279800Z</date>
+  <millis>1716735009901</millis>
+  <nanos>279800</nanos>
+  <sequence>0</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.UserManagementPanel</class>
+  <method>loadUserTypes</method>
+  <thread>18</thread>
+  <message>java.lang.NullPointerException: Cannot invoke "java.sql.Connection.createStatement()" because "model.MySQL.connection" is null</message>
+</record>
+<record>
+  <date>2024-05-26T14:50:10.038294600Z</date>
+  <millis>1716735010038</millis>
+  <nanos>294600</nanos>
+  <sequence>1</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.UserManagementPanel</class>
+  <method>loadUsers</method>
+  <thread>18</thread>
+  <message>java.lang.NullPointerException: Cannot invoke "java.sql.Connection.createStatement()" because "model.MySQL.connection" is null</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-05-27T19:51:35</date>
+  <millis>1716819695126</millis>
+  <sequence>0</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.SignIn</class>
+  <method>jButton2ActionPerformed</method>
+  <thread>16</thread>
+  <message>java.lang.NullPointerException</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-05-28T01:09:41</date>
+  <millis>1716838781945</millis>
+  <sequence>0</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.GrnManagement</class>
+  <method>jButton7ActionPerformed</method>
+  <thread>16</thread>
+  <message>java.lang.IllegalArgumentException: Cannot format given Object as a Date</message>
+</record>
+<record>
+  <date>2024-05-28T01:09:58</date>
+  <millis>1716838798616</millis>
+  <sequence>1</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.GrnManagement</class>
+  <method>jButton7ActionPerformed</method>
+  <thread>16</thread>
+  <message>java.lang.IllegalArgumentException: Cannot format given Object as a Date</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-05-28T03:26:45</date>
+  <millis>1716847005199</millis>
+  <sequence>0</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.GrnManagement</class>
+  <method>jButton7ActionPerformed</method>
+  <thread>16</thread>
+  <message>java.sql.SQLSyntaxErrorException: Unknown column 'id' in 'where clause'</message>
+</record>
+<record>
+  <date>2024-05-28T03:28:07</date>
+  <millis>1716847087652</millis>
+  <sequence>1</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.GrnManagement</class>
+  <method>jButton7ActionPerformed</method>
+  <thread>16</thread>
+  <message>java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1716847000311' for key 'grn.PRIMARY'</message>
+</record>
+<record>
+  <date>2024-05-28T03:28:28</date>
+  <millis>1716847108071</millis>
+  <sequence>2</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.GrnManagement</class>
+  <method>jButton7ActionPerformed</method>
+  <thread>16</thread>
+  <message>java.sql.SQLSyntaxErrorException: Unknown column 'id' in 'where clause'</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-05-28T17:22:27</date>
+  <millis>1716897147237</millis>
+  <sequence>0</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.SignIn</class>
+  <method>jButton2ActionPerformed</method>
+  <thread>16</thread>
+  <message>java.lang.NullPointerException</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-05-29T01:22:21</date>
+  <millis>1716925941481</millis>
+  <sequence>0</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.GrnManagement</class>
+  <method>jButton7ActionPerformed</method>
+  <thread>15</thread>
+  <message>net.sf.jasperreports.engine.JRException: Unknown column name: Field_1.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-05-29T02:11:27</date>
+  <millis>1716928887025</millis>
+  <sequence>0</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.GrnManagement</class>
+  <method>jButton7ActionPerformed</method>
+  <thread>15</thread>
+  <message>net.sf.jasperreports.engine.fill.JRExpressionEvalException: Error evaluating expression for source text: $F{COLUMN_9}</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-05-29T02:50:36</date>
+  <millis>1716931236393</millis>
+  <sequence>0</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.GrnManagement</class>
+  <method>jButton7ActionPerformed</method>
+  <thread>14</thread>
+  <message>net.sf.jasperreports.engine.fill.JRExpressionEvalException: Error evaluating expression for source text: $F{COLUMN_8}</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-05-29T03:13:40</date>
+  <millis>1716932620632</millis>
+  <sequence>0</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.SignIn</class>
+  <method>jButton2ActionPerformed</method>
+  <thread>15</thread>
+  <message>java.lang.NullPointerException</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-05-29T03:37:21</date>
+  <millis>1716934041521</millis>
+  <sequence>0</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.SignIn</class>
+  <method>jButton2ActionPerformed</method>
+  <thread>15</thread>
+  <message>java.lang.NullPointerException</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-05-29T04:18:47</date>
+  <millis>1716936527764</millis>
+  <sequence>0</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.InvoiceManagement</class>
+  <method>jButton8ActionPerformed</method>
+  <thread>15</thread>
+  <message>java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`d&amp;t_db`.`invoice`, CONSTRAINT `fk_invoice_customer1` FOREIGN KEY (`customer_mobile`) REFERENCES `customer` (`mobile`))</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-05-29T05:07:46</date>
+  <millis>1716939466945</millis>
+  <sequence>0</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.InvoiceManagement</class>
+  <method>jButton8ActionPerformed</method>
+  <thread>15</thread>
+  <message>java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`d&amp;t_db`.`invoice`, CONSTRAINT `fk_invoice_customer1` FOREIGN KEY (`customer_mobile`) REFERENCES `customer` (`mobile`))</message>
+</record>
+<record>
+  <date>2024-05-29T05:07:52</date>
+  <millis>1716939472653</millis>
+  <sequence>1</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.InvoiceManagement</class>
+  <method>jButton8ActionPerformed</method>
+  <thread>15</thread>
+  <message>java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`d&amp;t_db`.`invoice`, CONSTRAINT `fk_invoice_customer1` FOREIGN KEY (`customer_mobile`) REFERENCES `customer` (`mobile`))</message>
+</record>
+<record>
+  <date>2024-05-29T05:07:53</date>
+  <millis>1716939473218</millis>
+  <sequence>2</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.InvoiceManagement</class>
+  <method>jButton8ActionPerformed</method>
+  <thread>15</thread>
+  <message>java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`d&amp;t_db`.`invoice`, CONSTRAINT `fk_invoice_customer1` FOREIGN KEY (`customer_mobile`) REFERENCES `customer` (`mobile`))</message>
+</record>
+<record>
+  <date>2024-05-29T05:07:53</date>
+  <millis>1716939473409</millis>
+  <sequence>3</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.InvoiceManagement</class>
+  <method>jButton8ActionPerformed</method>
+  <thread>15</thread>
+  <message>java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`d&amp;t_db`.`invoice`, CONSTRAINT `fk_invoice_customer1` FOREIGN KEY (`customer_mobile`) REFERENCES `customer` (`mobile`))</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-05-29T06:00:58</date>
+  <millis>1716942658200</millis>
+  <sequence>0</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.GrnManagement</class>
+  <method>jButton7ActionPerformed</method>
+  <thread>15</thread>
+  <message>net.sf.jasperreports.engine.fill.JRExpressionEvalException: Error evaluating expression for source text: $F{COLUMN_8}</message>
+</record>
+<record>
+  <date>2024-05-29T06:00:59</date>
+  <millis>1716942659262</millis>
+  <sequence>1</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.GrnManagement</class>
+  <method>jButton7ActionPerformed</method>
+  <thread>15</thread>
+  <message>java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1716942631065' for key 'grn.PRIMARY'</message>
+</record>
+<record>
+  <date>2024-05-29T06:00:59</date>
+  <millis>1716942659911</millis>
+  <sequence>2</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.GrnManagement</class>
+  <method>jButton7ActionPerformed</method>
+  <thread>15</thread>
+  <message>java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1716942631065' for key 'grn.PRIMARY'</message>
+</record>
+<record>
+  <date>2024-05-29T06:01:00</date>
+  <millis>1716942660132</millis>
+  <sequence>3</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.GrnManagement</class>
+  <method>jButton7ActionPerformed</method>
+  <thread>15</thread>
+  <message>java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1716942631065' for key 'grn.PRIMARY'</message>
+</record>
+<record>
+  <date>2024-05-29T06:01:00</date>
+  <millis>1716942660332</millis>
+  <sequence>4</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.GrnManagement</class>
+  <method>jButton7ActionPerformed</method>
+  <thread>15</thread>
+  <message>java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1716942631065' for key 'grn.PRIMARY'</message>
+</record>
+<record>
+  <date>2024-05-29T06:01:00</date>
+  <millis>1716942660516</millis>
+  <sequence>5</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.GrnManagement</class>
+  <method>jButton7ActionPerformed</method>
+  <thread>15</thread>
+  <message>java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1716942631065' for key 'grn.PRIMARY'</message>
+</record>
+<record>
+  <date>2024-05-29T06:01:05</date>
+  <millis>1716942665636</millis>
+  <sequence>6</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.GrnManagement</class>
+  <method>jButton7ActionPerformed</method>
+  <thread>15</thread>
+  <message>java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1716942631065' for key 'grn.PRIMARY'</message>
+</record>
+<record>
+  <date>2024-05-29T06:01:08</date>
+  <millis>1716942668635</millis>
+  <sequence>7</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.GrnManagement</class>
+  <method>jButton7ActionPerformed</method>
+  <thread>15</thread>
+  <message>java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1716942631065' for key 'grn.PRIMARY'</message>
+</record>
+<record>
+  <date>2024-05-29T06:01:08</date>
+  <millis>1716942668851</millis>
+  <sequence>8</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.GrnManagement</class>
+  <method>jButton7ActionPerformed</method>
+  <thread>15</thread>
+  <message>java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1716942631065' for key 'grn.PRIMARY'</message>
+</record>
+<record>
+  <date>2024-05-29T06:01:09</date>
+  <millis>1716942669068</millis>
+  <sequence>9</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.GrnManagement</class>
+  <method>jButton7ActionPerformed</method>
+  <thread>15</thread>
+  <message>java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1716942631065' for key 'grn.PRIMARY'</message>
+</record>
+<record>
+  <date>2024-05-29T06:01:09</date>
+  <millis>1716942669267</millis>
+  <sequence>10</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.GrnManagement</class>
+  <method>jButton7ActionPerformed</method>
+  <thread>15</thread>
+  <message>java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1716942631065' for key 'grn.PRIMARY'</message>
+</record>
+<record>
+  <date>2024-05-29T06:01:09</date>
+  <millis>1716942669460</millis>
+  <sequence>11</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.GrnManagement</class>
+  <method>jButton7ActionPerformed</method>
+  <thread>15</thread>
+  <message>java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1716942631065' for key 'grn.PRIMARY'</message>
+</record>
+<record>
+  <date>2024-05-29T06:01:09</date>
+  <millis>1716942669660</millis>
+  <sequence>12</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.GrnManagement</class>
+  <method>jButton7ActionPerformed</method>
+  <thread>15</thread>
+  <message>java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1716942631065' for key 'grn.PRIMARY'</message>
+</record>
+<record>
+  <date>2024-05-29T06:01:09</date>
+  <millis>1716942669851</millis>
+  <sequence>13</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.GrnManagement</class>
+  <method>jButton7ActionPerformed</method>
+  <thread>15</thread>
+  <message>java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1716942631065' for key 'grn.PRIMARY'</message>
+</record>
+<record>
+  <date>2024-05-29T06:01:10</date>
+  <millis>1716942670044</millis>
+  <sequence>14</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.GrnManagement</class>
+  <method>jButton7ActionPerformed</method>
+  <thread>15</thread>
+  <message>java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1716942631065' for key 'grn.PRIMARY'</message>
+</record>
+<record>
+  <date>2024-05-29T06:01:10</date>
+  <millis>1716942670239</millis>
+  <sequence>15</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.GrnManagement</class>
+  <method>jButton7ActionPerformed</method>
+  <thread>15</thread>
+  <message>java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1716942631065' for key 'grn.PRIMARY'</message>
+</record>
+<record>
+  <date>2024-05-29T06:01:11</date>
+  <millis>1716942671652</millis>
+  <sequence>16</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.GrnManagement</class>
+  <method>jButton7ActionPerformed</method>
+  <thread>15</thread>
+  <message>java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1716942631065' for key 'grn.PRIMARY'</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-05-29T06:02:04</date>
+  <millis>1716942724404</millis>
+  <sequence>0</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.GrnManagement</class>
+  <method>jButton7ActionPerformed</method>
+  <thread>15</thread>
+  <message>net.sf.jasperreports.engine.fill.JRExpressionEvalException: Error evaluating expression for source text: $F{COLUMN_8}</message>
+</record>
+<record>
+  <date>2024-05-29T06:02:04</date>
+  <millis>1716942724431</millis>
+  <sequence>1</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.GrnManagement</class>
+  <method>jButton7ActionPerformed</method>
+  <thread>15</thread>
+  <message>java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1716942718913' for key 'grn.PRIMARY'</message>
+</record>
+<record>
+  <date>2024-05-29T06:02:04</date>
+  <millis>1716942724437</millis>
+  <sequence>2</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.GrnManagement</class>
+  <method>jButton7ActionPerformed</method>
+  <thread>15</thread>
+  <message>java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1716942718913' for key 'grn.PRIMARY'</message>
+</record>
+<record>
+  <date>2024-05-29T06:02:04</date>
+  <millis>1716942724491</millis>
+  <sequence>3</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.GrnManagement</class>
+  <method>jButton7ActionPerformed</method>
+  <thread>15</thread>
+  <message>java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1716942718913' for key 'grn.PRIMARY'</message>
+</record>
+<record>
+  <date>2024-05-29T06:02:04</date>
+  <millis>1716942724708</millis>
+  <sequence>4</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.GrnManagement</class>
+  <method>jButton7ActionPerformed</method>
+  <thread>15</thread>
+  <message>java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1716942718913' for key 'grn.PRIMARY'</message>
+</record>
+<record>
+  <date>2024-05-29T06:02:04</date>
+  <millis>1716942724908</millis>
+  <sequence>5</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.GrnManagement</class>
+  <method>jButton7ActionPerformed</method>
+  <thread>15</thread>
+  <message>java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1716942718913' for key 'grn.PRIMARY'</message>
+</record>
+<record>
+  <date>2024-05-29T06:02:05</date>
+  <millis>1716942725107</millis>
+  <sequence>6</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.GrnManagement</class>
+  <method>jButton7ActionPerformed</method>
+  <thread>15</thread>
+  <message>java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1716942718913' for key 'grn.PRIMARY'</message>
+</record>
+<record>
+  <date>2024-05-29T06:02:05</date>
+  <millis>1716942725308</millis>
+  <sequence>7</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.GrnManagement</class>
+  <method>jButton7ActionPerformed</method>
+  <thread>15</thread>
+  <message>java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1716942718913' for key 'grn.PRIMARY'</message>
+</record>
+<record>
+  <date>2024-05-29T06:02:05</date>
+  <millis>1716942725500</millis>
+  <sequence>8</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.GrnManagement</class>
+  <method>jButton7ActionPerformed</method>
+  <thread>15</thread>
+  <message>java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1716942718913' for key 'grn.PRIMARY'</message>
+</record>
+<record>
+  <date>2024-05-29T06:02:05</date>
+  <millis>1716942725699</millis>
+  <sequence>9</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.GrnManagement</class>
+  <method>jButton7ActionPerformed</method>
+  <thread>15</thread>
+  <message>java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1716942718913' for key 'grn.PRIMARY'</message>
+</record>
+<record>
+  <date>2024-05-29T06:02:05</date>
+  <millis>1716942725899</millis>
+  <sequence>10</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.GrnManagement</class>
+  <method>jButton7ActionPerformed</method>
+  <thread>15</thread>
+  <message>java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1716942718913' for key 'grn.PRIMARY'</message>
+</record>
+<record>
+  <date>2024-05-29T06:02:06</date>
+  <millis>1716942726092</millis>
+  <sequence>11</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.GrnManagement</class>
+  <method>jButton7ActionPerformed</method>
+  <thread>15</thread>
+  <message>java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1716942718913' for key 'grn.PRIMARY'</message>
+</record>
+<record>
+  <date>2024-05-29T06:02:06</date>
+  <millis>1716942726285</millis>
+  <sequence>12</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.GrnManagement</class>
+  <method>jButton7ActionPerformed</method>
+  <thread>15</thread>
+  <message>java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1716942718913' for key 'grn.PRIMARY'</message>
+</record>
+<record>
+  <date>2024-05-29T06:02:06</date>
+  <millis>1716942726475</millis>
+  <sequence>13</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.GrnManagement</class>
+  <method>jButton7ActionPerformed</method>
+  <thread>15</thread>
+  <message>java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1716942718913' for key 'grn.PRIMARY'</message>
+</record>
+<record>
+  <date>2024-05-29T06:02:06</date>
+  <millis>1716942726683</millis>
+  <sequence>14</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.GrnManagement</class>
+  <method>jButton7ActionPerformed</method>
+  <thread>15</thread>
+  <message>java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1716942718913' for key 'grn.PRIMARY'</message>
+</record>
+<record>
+  <date>2024-05-29T06:02:06</date>
+  <millis>1716942726883</millis>
+  <sequence>15</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.GrnManagement</class>
+  <method>jButton7ActionPerformed</method>
+  <thread>15</thread>
+  <message>java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1716942718913' for key 'grn.PRIMARY'</message>
+</record>
+<record>
+  <date>2024-05-29T06:02:07</date>
+  <millis>1716942727909</millis>
+  <sequence>16</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.GrnManagement</class>
+  <method>jButton7ActionPerformed</method>
+  <thread>15</thread>
+  <message>java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1716942718913' for key 'grn.PRIMARY'</message>
+</record>
+<record>
+  <date>2024-05-29T06:02:08</date>
+  <millis>1716942728132</millis>
+  <sequence>17</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.GrnManagement</class>
+  <method>jButton7ActionPerformed</method>
+  <thread>15</thread>
+  <message>java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1716942718913' for key 'grn.PRIMARY'</message>
+</record>
+<record>
+  <date>2024-05-29T06:02:08</date>
+  <millis>1716942728324</millis>
+  <sequence>18</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.GrnManagement</class>
+  <method>jButton7ActionPerformed</method>
+  <thread>15</thread>
+  <message>java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1716942718913' for key 'grn.PRIMARY'</message>
+</record>
+<record>
+  <date>2024-05-29T06:02:08</date>
+  <millis>1716942728515</millis>
+  <sequence>19</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.GrnManagement</class>
+  <method>jButton7ActionPerformed</method>
+  <thread>15</thread>
+  <message>java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1716942718913' for key 'grn.PRIMARY'</message>
+</record>
+<record>
+  <date>2024-05-29T06:02:08</date>
+  <millis>1716942728702</millis>
+  <sequence>20</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.GrnManagement</class>
+  <method>jButton7ActionPerformed</method>
+  <thread>15</thread>
+  <message>java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1716942718913' for key 'grn.PRIMARY'</message>
+</record>
+<record>
+  <date>2024-05-29T06:02:08</date>
+  <millis>1716942728900</millis>
+  <sequence>21</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.GrnManagement</class>
+  <method>jButton7ActionPerformed</method>
+  <thread>15</thread>
+  <message>java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1716942718913' for key 'grn.PRIMARY'</message>
+</record>
+<record>
+  <date>2024-05-29T06:02:09</date>
+  <millis>1716942729100</millis>
+  <sequence>22</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.GrnManagement</class>
+  <method>jButton7ActionPerformed</method>
+  <thread>15</thread>
+  <message>java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1716942718913' for key 'grn.PRIMARY'</message>
+</record>
+<record>
+  <date>2024-05-29T06:02:09</date>
+  <millis>1716942729299</millis>
+  <sequence>23</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.GrnManagement</class>
+  <method>jButton7ActionPerformed</method>
+  <thread>15</thread>
+  <message>java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1716942718913' for key 'grn.PRIMARY'</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-05-29T06:39:40</date>
+  <millis>1716944980786</millis>
+  <sequence>0</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.DrawerManagement</class>
+  <method>loadTransactions</method>
+  <thread>15</thread>
+  <message>java.sql.SQLSyntaxErrorException: Table 'd&amp;t_db.drawer' doesn't exist</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-05-29T07:00:22</date>
+  <millis>1716946222809</millis>
+  <sequence>0</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.InvoiceManagement</class>
+  <method>jButton8ActionPerformed</method>
+  <thread>16</thread>
+  <message>java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1716946134931' for key 'invoice.PRIMARY'</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-05-29T07:15:00</date>
+  <millis>1716947100974</millis>
+  <sequence>0</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.StockManagement</class>
+  <method>jButton1ActionPerformed</method>
+  <thread>16</thread>
+  <message>java.lang.NullPointerException</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-05-29T01:56:43.472833900Z</date>
+  <millis>1716947803472</millis>
+  <nanos>833900</nanos>
+  <sequence>0</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.DashboardPanel</class>
+  <method>loadPieChart</method>
+  <thread>16</thread>
+  <message>java.lang.NullPointerException</message>
+</record>
+<record>
+  <date>2024-05-29T01:56:43.527493300Z</date>
+  <millis>1716947803527</millis>
+  <nanos>493300</nanos>
+  <sequence>1</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.DashboardPanel</class>
+  <method>calculateTotalBillDiscounts</method>
+  <thread>16</thread>
+  <message>java.lang.NullPointerException</message>
+</record>
+<record>
+  <date>2024-05-29T01:56:43.531518600Z</date>
+  <millis>1716947803531</millis>
+  <nanos>518600</nanos>
+  <sequence>2</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.DashboardPanel</class>
+  <method>calculateOtherServiceIncome</method>
+  <thread>16</thread>
+  <message>java.lang.NullPointerException</message>
+</record>
+<record>
+  <date>2024-05-29T01:56:43.533518600Z</date>
+  <millis>1716947803533</millis>
+  <nanos>518600</nanos>
+  <sequence>3</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.DashboardPanel</class>
+  <method>calculateTotalInvoiceItemsTable</method>
+  <thread>16</thread>
+  <message>java.lang.NullPointerException</message>
+</record>
+<record>
+  <date>2024-05-29T01:56:43.535518400Z</date>
+  <millis>1716947803535</millis>
+  <nanos>518400</nanos>
+  <sequence>4</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.DashboardPanel</class>
+  <method>calculateRepairIncome</method>
+  <thread>16</thread>
+  <message>java.lang.NullPointerException</message>
+</record>
+<record>
+  <date>2024-05-29T01:56:43.538047500Z</date>
+  <millis>1716947803538</millis>
+  <nanos>47500</nanos>
+  <sequence>5</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.DashboardPanel</class>
+  <method>calculateTotalBillDiscounts</method>
+  <thread>16</thread>
+  <message>java.lang.NullPointerException</message>
+</record>
+<record>
+  <date>2024-05-29T01:56:43.540059Z</date>
+  <millis>1716947803540</millis>
+  <nanos>59000</nanos>
+  <sequence>6</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.DashboardPanel</class>
+  <method>calculateOtherServiceIncome</method>
+  <thread>16</thread>
+  <message>java.lang.NullPointerException</message>
+</record>
+<record>
+  <date>2024-05-29T01:56:43.541059800Z</date>
+  <millis>1716947803541</millis>
+  <nanos>59800</nanos>
+  <sequence>7</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.DashboardPanel</class>
+  <method>calculateTotalInvoiceItemsTable</method>
+  <thread>16</thread>
+  <message>java.lang.NullPointerException</message>
+</record>
+<record>
+  <date>2024-05-29T01:56:43.542061400Z</date>
+  <millis>1716947803542</millis>
+  <nanos>61400</nanos>
+  <sequence>8</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.DashboardPanel</class>
+  <method>calculateRepairIncome</method>
+  <thread>16</thread>
+  <message>java.lang.NullPointerException</message>
+</record>
+<record>
+  <date>2024-05-29T01:56:43.544064400Z</date>
+  <millis>1716947803544</millis>
+  <nanos>64400</nanos>
+  <sequence>9</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.DashboardPanel</class>
+  <method>calculateTotalBillDiscounts</method>
+  <thread>16</thread>
+  <message>java.lang.NullPointerException</message>
+</record>
+<record>
+  <date>2024-05-29T01:56:43.545060400Z</date>
+  <millis>1716947803545</millis>
+  <nanos>60400</nanos>
+  <sequence>10</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.DashboardPanel</class>
+  <method>calculateOtherServiceIncome</method>
+  <thread>16</thread>
+  <message>java.lang.NullPointerException</message>
+</record>
+<record>
+  <date>2024-05-29T01:56:43.547574700Z</date>
+  <millis>1716947803547</millis>
+  <nanos>574700</nanos>
+  <sequence>11</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.DashboardPanel</class>
+  <method>calculateTotalInvoiceItemsTable</method>
+  <thread>16</thread>
+  <message>java.lang.NullPointerException</message>
+</record>
+<record>
+  <date>2024-05-29T01:56:43.550604400Z</date>
+  <millis>1716947803550</millis>
+  <nanos>604400</nanos>
+  <sequence>12</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.DashboardPanel</class>
+  <method>calculateRepairIncome</method>
+  <thread>16</thread>
+  <message>java.lang.NullPointerException</message>
+</record>
+<record>
+  <date>2024-05-29T01:56:43.551605100Z</date>
+  <millis>1716947803551</millis>
+  <nanos>605100</nanos>
+  <sequence>13</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.DashboardPanel</class>
+  <method>setPayment</method>
+  <thread>16</thread>
+  <message>java.lang.NullPointerException</message>
+</record>
+<record>
+  <date>2024-05-29T01:56:43.553603100Z</date>
+  <millis>1716947803553</millis>
+  <nanos>603100</nanos>
+  <sequence>14</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.DashboardPanel</class>
+  <method>setDrawerBalance</method>
+  <thread>16</thread>
+  <message>java.lang.NullPointerException</message>
+</record>
+<record>
+  <date>2024-05-29T01:57:11.085065300Z</date>
+  <millis>1716947831085</millis>
+  <nanos>65300</nanos>
+  <sequence>15</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.DashboardPanel</class>
+  <method>loadPieChart</method>
+  <thread>16</thread>
+  <message>java.lang.NullPointerException</message>
+</record>
+<record>
+  <date>2024-05-29T01:57:11.086064700Z</date>
+  <millis>1716947831086</millis>
+  <nanos>64700</nanos>
+  <sequence>16</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.DashboardPanel</class>
+  <method>calculateTotalBillDiscounts</method>
+  <thread>16</thread>
+  <message>java.lang.NullPointerException</message>
+</record>
+<record>
+  <date>2024-05-29T01:57:11.087656500Z</date>
+  <millis>1716947831087</millis>
+  <nanos>656500</nanos>
+  <sequence>17</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.DashboardPanel</class>
+  <method>calculateOtherServiceIncome</method>
+  <thread>16</thread>
+  <message>java.lang.NullPointerException</message>
+</record>
+<record>
+  <date>2024-05-29T01:57:11.088587400Z</date>
+  <millis>1716947831088</millis>
+  <nanos>587400</nanos>
+  <sequence>18</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.DashboardPanel</class>
+  <method>calculateTotalInvoiceItemsTable</method>
+  <thread>16</thread>
+  <message>java.lang.NullPointerException</message>
+</record>
+<record>
+  <date>2024-05-29T01:57:11.089599200Z</date>
+  <millis>1716947831089</millis>
+  <nanos>599200</nanos>
+  <sequence>19</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.DashboardPanel</class>
+  <method>calculateRepairIncome</method>
+  <thread>16</thread>
+  <message>java.lang.NullPointerException</message>
+</record>
+<record>
+  <date>2024-05-29T01:57:11.090604Z</date>
+  <millis>1716947831090</millis>
+  <nanos>604000</nanos>
+  <sequence>20</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.DashboardPanel</class>
+  <method>calculateTotalBillDiscounts</method>
+  <thread>16</thread>
+  <message>java.lang.NullPointerException</message>
+</record>
+<record>
+  <date>2024-05-29T01:57:11.091604Z</date>
+  <millis>1716947831091</millis>
+  <nanos>604000</nanos>
+  <sequence>21</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.DashboardPanel</class>
+  <method>calculateOtherServiceIncome</method>
+  <thread>16</thread>
+  <message>java.lang.NullPointerException</message>
+</record>
+<record>
+  <date>2024-05-29T01:57:11.092601300Z</date>
+  <millis>1716947831092</millis>
+  <nanos>601300</nanos>
+  <sequence>22</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.DashboardPanel</class>
+  <method>calculateTotalInvoiceItemsTable</method>
+  <thread>16</thread>
+  <message>java.lang.NullPointerException</message>
+</record>
+<record>
+  <date>2024-05-29T01:57:11.093601800Z</date>
+  <millis>1716947831093</millis>
+  <nanos>601800</nanos>
+  <sequence>23</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.DashboardPanel</class>
+  <method>calculateRepairIncome</method>
+  <thread>16</thread>
+  <message>java.lang.NullPointerException</message>
+</record>
+<record>
+  <date>2024-05-29T01:57:11.094603800Z</date>
+  <millis>1716947831094</millis>
+  <nanos>603800</nanos>
+  <sequence>24</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.DashboardPanel</class>
+  <method>calculateTotalBillDiscounts</method>
+  <thread>16</thread>
+  <message>java.lang.NullPointerException</message>
+</record>
+<record>
+  <date>2024-05-29T01:57:11.095604700Z</date>
+  <millis>1716947831095</millis>
+  <nanos>604700</nanos>
+  <sequence>25</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.DashboardPanel</class>
+  <method>calculateOtherServiceIncome</method>
+  <thread>16</thread>
+  <message>java.lang.NullPointerException</message>
+</record>
+<record>
+  <date>2024-05-29T01:57:11.096600Z</date>
+  <millis>1716947831096</millis>
+  <nanos>600000</nanos>
+  <sequence>26</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.DashboardPanel</class>
+  <method>calculateTotalInvoiceItemsTable</method>
+  <thread>16</thread>
+  <message>java.lang.NullPointerException</message>
+</record>
+<record>
+  <date>2024-05-29T01:57:11.096600Z</date>
+  <millis>1716947831096</millis>
+  <nanos>600000</nanos>
+  <sequence>27</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.DashboardPanel</class>
+  <method>calculateRepairIncome</method>
+  <thread>16</thread>
+  <message>java.lang.NullPointerException</message>
+</record>
+<record>
+  <date>2024-05-29T01:57:11.097600500Z</date>
+  <millis>1716947831097</millis>
+  <nanos>600500</nanos>
+  <sequence>28</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.DashboardPanel</class>
+  <method>setPayment</method>
+  <thread>16</thread>
+  <message>java.lang.NullPointerException</message>
+</record>
+<record>
+  <date>2024-05-29T01:57:11.100155500Z</date>
+  <millis>1716947831100</millis>
+  <nanos>155500</nanos>
+  <sequence>29</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.DashboardPanel</class>
+  <method>setDrawerBalance</method>
+  <thread>16</thread>
+  <message>java.lang.NullPointerException</message>
+</record>
+<record>
+  <date>2024-05-29T01:57:12.255238900Z</date>
+  <millis>1716947832255</millis>
+  <nanos>238900</nanos>
+  <sequence>30</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.UserManagementPanel</class>
+  <method>loadUserTypes</method>
+  <thread>16</thread>
+  <message>java.lang.NullPointerException</message>
+</record>
+<record>
+  <date>2024-05-29T01:57:12.258759600Z</date>
+  <millis>1716947832258</millis>
+  <nanos>759600</nanos>
+  <sequence>31</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.UserManagementPanel</class>
+  <method>loadUsers</method>
+  <thread>16</thread>
+  <message>java.lang.NullPointerException</message>
+</record>
+<record>
+  <date>2024-05-29T01:57:31.240509600Z</date>
+  <millis>1716947851240</millis>
+  <nanos>509600</nanos>
+  <sequence>32</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.CustomerManagement</class>
+  <method>loadCustomerTable</method>
+  <thread>16</thread>
+  <message>java.lang.NullPointerException</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-05-29T07:37:00</date>
+  <millis>1716948420803</millis>
+  <sequence>0</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.DashboardPanel</class>
+  <method>calculateRepairIncome</method>
+  <thread>14</thread>
+  <message>java.sql.SQLSyntaxErrorException: Table 'd&amp;t_db.repair' doesn't exist</message>
+</record>
+<record>
+  <date>2024-05-29T07:37:00</date>
+  <millis>1716948420839</millis>
+  <sequence>1</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.DashboardPanel</class>
+  <method>calculateRepairIncome</method>
+  <thread>14</thread>
+  <message>java.sql.SQLSyntaxErrorException: Table 'd&amp;t_db.repair' doesn't exist</message>
+</record>
+<record>
+  <date>2024-05-29T07:37:00</date>
+  <millis>1716948420878</millis>
+  <sequence>2</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.DashboardPanel</class>
+  <method>calculateRepairIncome</method>
+  <thread>14</thread>
+  <message>java.sql.SQLSyntaxErrorException: Table 'd&amp;t_db.repair' doesn't exist</message>
+</record>
+<record>
+  <date>2024-05-29T07:37:00</date>
+  <millis>1716948420903</millis>
+  <sequence>3</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.DashboardPanel</class>
+  <method>setDrawerBalance</method>
+  <thread>14</thread>
+  <message>java.sql.SQLSyntaxErrorException: Table 'd&amp;t_db.drawer' doesn't exist</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-05-29T07:45:11</date>
+  <millis>1716948911531</millis>
+  <sequence>0</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.DashboardPanel</class>
+  <method>calculateRepairIncome</method>
+  <thread>14</thread>
+  <message>java.sql.SQLSyntaxErrorException: Table 'd&amp;t_db.repair' doesn't exist</message>
+</record>
+<record>
+  <date>2024-05-29T07:45:11</date>
+  <millis>1716948911557</millis>
+  <sequence>1</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.DashboardPanel</class>
+  <method>calculateRepairIncome</method>
+  <thread>14</thread>
+  <message>java.sql.SQLSyntaxErrorException: Table 'd&amp;t_db.repair' doesn't exist</message>
+</record>
+<record>
+  <date>2024-05-29T07:45:11</date>
+  <millis>1716948911579</millis>
+  <sequence>2</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.DashboardPanel</class>
+  <method>calculateRepairIncome</method>
+  <thread>14</thread>
+  <message>java.sql.SQLSyntaxErrorException: Table 'd&amp;t_db.repair' doesn't exist</message>
+</record>
+<record>
+  <date>2024-05-29T07:45:11</date>
+  <millis>1716948911593</millis>
+  <sequence>3</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.DashboardPanel</class>
+  <method>setDrawerBalance</method>
+  <thread>14</thread>
+  <message>java.sql.SQLSyntaxErrorException: Table 'd&amp;t_db.drawer' doesn't exist</message>
+</record>
+<record>
+  <date>2024-05-29T07:45:48</date>
+  <millis>1716948948786</millis>
+  <sequence>4</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.DrawerManagement</class>
+  <method>loadTransactions</method>
+  <thread>14</thread>
+  <message>java.sql.SQLSyntaxErrorException: Table 'd&amp;t_db.drawer' doesn't exist</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-05-29T07:50:59</date>
+  <millis>1716949259243</millis>
+  <sequence>0</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.DashboardPanel</class>
+  <method>calculateRepairIncome</method>
+  <thread>14</thread>
+  <message>java.sql.SQLSyntaxErrorException: Table 'd&amp;t_db.repair' doesn't exist</message>
+</record>
+<record>
+  <date>2024-05-29T07:50:59</date>
+  <millis>1716949259259</millis>
+  <sequence>1</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.DashboardPanel</class>
+  <method>calculateRepairIncome</method>
+  <thread>14</thread>
+  <message>java.sql.SQLSyntaxErrorException: Table 'd&amp;t_db.repair' doesn't exist</message>
+</record>
+<record>
+  <date>2024-05-29T07:50:59</date>
+  <millis>1716949259270</millis>
+  <sequence>2</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.DashboardPanel</class>
+  <method>calculateRepairIncome</method>
+  <thread>14</thread>
+  <message>java.sql.SQLSyntaxErrorException: Table 'd&amp;t_db.repair' doesn't exist</message>
+</record>
+<record>
+  <date>2024-05-29T07:50:59</date>
+  <millis>1716949259276</millis>
+  <sequence>3</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.DashboardPanel</class>
+  <method>setDrawerBalance</method>
+  <thread>14</thread>
+  <message>java.sql.SQLSyntaxErrorException: Table 'd&amp;t_db.drawer' doesn't exist</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-05-29T07:56:50</date>
+  <millis>1716949610781</millis>
+  <sequence>0</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.DashboardPanel</class>
+  <method>calculateRepairIncome</method>
+  <thread>14</thread>
+  <message>java.sql.SQLSyntaxErrorException: Table 'd&amp;t_db.repair' doesn't exist</message>
+</record>
+<record>
+  <date>2024-05-29T07:56:50</date>
+  <millis>1716949610800</millis>
+  <sequence>1</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.DashboardPanel</class>
+  <method>calculateRepairIncome</method>
+  <thread>14</thread>
+  <message>java.sql.SQLSyntaxErrorException: Table 'd&amp;t_db.repair' doesn't exist</message>
+</record>
+<record>
+  <date>2024-05-29T07:56:50</date>
+  <millis>1716949610813</millis>
+  <sequence>2</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.DashboardPanel</class>
+  <method>calculateRepairIncome</method>
+  <thread>14</thread>
+  <message>java.sql.SQLSyntaxErrorException: Table 'd&amp;t_db.repair' doesn't exist</message>
+</record>
+<record>
+  <date>2024-05-29T07:56:50</date>
+  <millis>1716949610822</millis>
+  <sequence>3</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.DashboardPanel</class>
+  <method>setDrawerBalance</method>
+  <thread>14</thread>
+  <message>java.sql.SQLSyntaxErrorException: Table 'd&amp;t_db.drawer' doesn't exist</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-05-29T07:58:57</date>
+  <millis>1716949737699</millis>
+  <sequence>0</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.DashboardPanel</class>
+  <method>calculateRepairIncome</method>
+  <thread>14</thread>
+  <message>java.sql.SQLSyntaxErrorException: Table 'd&amp;t_db.repair' doesn't exist</message>
+</record>
+<record>
+  <date>2024-05-29T07:58:57</date>
+  <millis>1716949737715</millis>
+  <sequence>1</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.DashboardPanel</class>
+  <method>calculateRepairIncome</method>
+  <thread>14</thread>
+  <message>java.sql.SQLSyntaxErrorException: Table 'd&amp;t_db.repair' doesn't exist</message>
+</record>
+<record>
+  <date>2024-05-29T07:58:57</date>
+  <millis>1716949737729</millis>
+  <sequence>2</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.DashboardPanel</class>
+  <method>calculateRepairIncome</method>
+  <thread>14</thread>
+  <message>java.sql.SQLSyntaxErrorException: Table 'd&amp;t_db.repair' doesn't exist</message>
+</record>
+<record>
+  <date>2024-05-29T07:58:57</date>
+  <millis>1716949737739</millis>
+  <sequence>3</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.DashboardPanel</class>
+  <method>setDrawerBalance</method>
+  <thread>14</thread>
+  <message>java.sql.SQLSyntaxErrorException: Table 'd&amp;t_db.drawer' doesn't exist</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-05-29T08:02:47</date>
+  <millis>1716949967281</millis>
+  <sequence>0</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.DashboardPanel</class>
+  <method>calculateRepairIncome</method>
+  <thread>14</thread>
+  <message>java.sql.SQLSyntaxErrorException: Table 'd&amp;t_db.repair' doesn't exist</message>
+</record>
+<record>
+  <date>2024-05-29T08:02:47</date>
+  <millis>1716949967297</millis>
+  <sequence>1</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.DashboardPanel</class>
+  <method>calculateRepairIncome</method>
+  <thread>14</thread>
+  <message>java.sql.SQLSyntaxErrorException: Table 'd&amp;t_db.repair' doesn't exist</message>
+</record>
+<record>
+  <date>2024-05-29T08:02:47</date>
+  <millis>1716949967311</millis>
+  <sequence>2</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.DashboardPanel</class>
+  <method>calculateRepairIncome</method>
+  <thread>14</thread>
+  <message>java.sql.SQLSyntaxErrorException: Table 'd&amp;t_db.repair' doesn't exist</message>
+</record>
+<record>
+  <date>2024-05-29T08:02:47</date>
+  <millis>1716949967317</millis>
+  <sequence>3</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.DashboardPanel</class>
+  <method>setDrawerBalance</method>
+  <thread>14</thread>
+  <message>java.sql.SQLSyntaxErrorException: Table 'd&amp;t_db.drawer' doesn't exist</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-05-29T10:15:48</date>
+  <millis>1716957948776</millis>
+  <sequence>0</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.SignIn</class>
+  <method>jButton2ActionPerformed</method>
+  <thread>16</thread>
+  <message>java.lang.NullPointerException</message>
+</record>
+<record>
+  <date>2024-05-29T10:15:52</date>
+  <millis>1716957952082</millis>
+  <sequence>1</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.SignIn</class>
+  <method>jButton2ActionPerformed</method>
+  <thread>16</thread>
+  <message>java.lang.NullPointerException</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-05-29T10:18:39</date>
+  <millis>1716958119082</millis>
+  <sequence>0</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.SignIn</class>
+  <method>jButton2ActionPerformed</method>
+  <thread>16</thread>
+  <message>java.lang.NullPointerException</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-05-29T10:20:05</date>
+  <millis>1716958205703</millis>
+  <sequence>0</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.SignIn</class>
+  <method>jButton2ActionPerformed</method>
+  <thread>16</thread>
+  <message>java.lang.NullPointerException</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-05-29T10:21:04</date>
+  <millis>1716958264357</millis>
+  <sequence>0</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.SignIn</class>
+  <method>jButton2ActionPerformed</method>
+  <thread>16</thread>
+  <message>java.lang.NullPointerException</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-05-29T10:48:25</date>
+  <millis>1716959905360</millis>
+  <sequence>0</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.SignIn</class>
+  <method>jButton2ActionPerformed</method>
+  <thread>16</thread>
+  <message>java.lang.NullPointerException</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-05-29T10:49:05</date>
+  <millis>1716959945476</millis>
+  <sequence>0</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.SignIn</class>
+  <method>jButton2ActionPerformed</method>
+  <thread>16</thread>
+  <message>java.lang.NullPointerException</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-05-29T10:53:29</date>
+  <millis>1716960209651</millis>
+  <sequence>0</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.SignIn</class>
+  <method>jButton2ActionPerformed</method>
+  <thread>16</thread>
+  <message>java.lang.NullPointerException</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-05-29T10:56:29</date>
+  <millis>1716960389849</millis>
+  <sequence>0</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.SignIn</class>
+  <method>jButton2ActionPerformed</method>
+  <thread>16</thread>
+  <message>java.lang.NullPointerException</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-05-29T14:13:16</date>
+  <millis>1716972196198</millis>
+  <sequence>0</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.UserManagementPanel</class>
+  <method>jButton1ActionPerformed</method>
+  <thread>16</thread>
+  <message>java.sql.SQLException: Field 'status_id' doesn't have a default value</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-11-03T18:29:02.408362800Z</date>
+  <millis>1730658542408</millis>
+  <nanos>362800</nanos>
+  <sequence>0</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.SignIn</class>
+  <method>jButton2ActionPerformed</method>
+  <thread>17</thread>
+  <message>java.lang.NullPointerException</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-11-03T18:30:18.492533200Z</date>
+  <millis>1730658618492</millis>
+  <nanos>533200</nanos>
+  <sequence>0</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.DashboardPanel</class>
+  <method>calculateRepairIncome</method>
+  <thread>17</thread>
+  <message>java.sql.SQLSyntaxErrorException: Table 'd&amp;t_db.repair' doesn't exist</message>
+</record>
+<record>
+  <date>2024-11-03T18:30:18.523781200Z</date>
+  <millis>1730658618523</millis>
+  <nanos>781200</nanos>
+  <sequence>1</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.DashboardPanel</class>
+  <method>calculateRepairIncome</method>
+  <thread>17</thread>
+  <message>java.sql.SQLSyntaxErrorException: Table 'd&amp;t_db.repair' doesn't exist</message>
+</record>
+<record>
+  <date>2024-11-03T18:30:18.523781200Z</date>
+  <millis>1730658618523</millis>
+  <nanos>781200</nanos>
+  <sequence>2</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.DashboardPanel</class>
+  <method>calculateRepairIncome</method>
+  <thread>17</thread>
+  <message>java.sql.SQLSyntaxErrorException: Table 'd&amp;t_db.repair' doesn't exist</message>
+</record>
+<record>
+  <date>2024-11-03T18:30:18.539408900Z</date>
+  <millis>1730658618539</millis>
+  <nanos>408900</nanos>
+  <sequence>3</sequence>
+  <logger>log1</logger>
+  <level>WARNING</level>
+  <class>gui.DashboardPanel</class>
+  <method>setDrawerBalance</method>
+  <thread>17</thread>
+  <message>java.sql.SQLSyntaxErrorException: Table 'd&amp;t_db.drawer' doesn't exist</message>
+</record>
+</log>
